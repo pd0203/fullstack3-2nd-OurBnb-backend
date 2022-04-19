@@ -20,10 +20,6 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">
 
-## Repository
-
-- [Frontend](https://github.com/zzangzzong92/fullstack3-2nd-OurBnb-frontend)
-- [Backend](https://github.com/zzangzzong92/fullstack3-2nd-OurBnb-backend)
 
 ## Member
 
