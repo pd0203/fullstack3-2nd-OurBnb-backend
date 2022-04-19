@@ -41,6 +41,9 @@
   - 예약 생성/조회/수정/삭제 API 구현
   - 리뷰 조회 API 구현 
 
+## 개인 회고록
+https://velog.io/@hs0217/OurBnb-%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D
+
 ## Modeling
 
 ![스크린샷 2022-02-08 오전 1 13 34](https://user-images.githubusercontent.com/70682567/152827078-4d136f7d-5e38-48b1-90b4-95824b682d28.png)
